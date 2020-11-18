@@ -1,0 +1,25 @@
+node_modules/**/*
+saple_app/node_modules/**/*
+.expo/*
+saple_app/.expo/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+web-report/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log
+
+# Runtime data
+tmp
+build
+dist
