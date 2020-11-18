@@ -1,7 +1,7 @@
 node_modules/**/*
-saple_app/node_modules/**/*
+sample_app/node_modules/**/*
 .expo/*
-saple_app/.expo/*
+sample_app/.expo/*
 npm-debug.*
 *.jks
 *.p8
