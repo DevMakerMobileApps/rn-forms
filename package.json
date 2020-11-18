@@ -1,0 +1,23 @@
+{
+  "name": "@devmaker/rn-forms",
+  "version": "0.1.0",
+  "description": "Set of commom Form Components reusable between apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevMakerMobileApps/rn-forms.git"
+  },
+  "keywords": [
+    "Devmaker",
+    "Forms"
+  ],
+  "author": "Rudiney Altair Franceschi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevMakerMobileApps/rn-forms/issues"
+  },
+  "homepage": "https://github.com/DevMakerMobileApps/rn-forms#readme"
+}
